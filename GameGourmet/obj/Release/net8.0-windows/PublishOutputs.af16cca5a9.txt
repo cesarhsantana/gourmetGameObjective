@@ -1,0 +1,5 @@
+C:\Dev\GameGourmet\GameGourmet.exe
+C:\Dev\GameGourmet\GameGourmet.dll
+C:\Dev\GameGourmet\GameGourmet.deps.json
+C:\Dev\GameGourmet\GameGourmet.runtimeconfig.json
+C:\Dev\GameGourmet\GameGourmet.pdb

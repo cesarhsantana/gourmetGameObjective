@@ -1,0 +1,17 @@
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\bin\Release\net8.0-windows\GameGourmet.exe
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\bin\Release\net8.0-windows\GameGourmet.deps.json
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\bin\Release\net8.0-windows\GameGourmet.runtimeconfig.json
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\bin\Release\net8.0-windows\GameGourmet.dll
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\bin\Release\net8.0-windows\GameGourmet.pdb
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.InputBox.resources
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.MainForm.resources
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.csproj.GenerateResource.cache
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.AssemblyInfoInputs.cache
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.AssemblyInfo.cs
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.csproj.CoreCompileInputs.cache
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.dll
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\refint\GameGourmet.dll
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.pdb
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\GameGourmet.genruntimeconfig.cache
+C:\Users\cesar.santana\source\repos\GameGourmet\GameGourmet\obj\Release\net8.0-windows\ref\GameGourmet.dll
